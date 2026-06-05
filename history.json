@@ -1,0 +1,51 @@
+[
+    {
+        "song_name": "Muse_-_Hysteria_Official_Music_Video.mp3",
+        "mood": "Energetic",
+        "bpm": 123,
+        "chord": "A Minor",
+        "file_url": "http://127.0.0.1:5000/static/uploads/Muse_-_Hysteria_Official_Music_Video.mp3"
+    },
+    {
+        "song_name": "katturumbinu_kallyanam_ajp_anu_b_ivar..mp3",
+        "mood": "Energetic",
+        "bpm": 172,
+        "chord": "A Minor",
+        "file_url": "http://127.0.0.1:5000/static/uploads/katturumbinu_kallyanam_ajp_anu_b_ivar..mp3"
+    },
+    {
+        "song_name": "Lana_Del_Rey_-_Chemtrails_Over_The_Country_Club_Official_Music_Video.mp3",
+        "mood": "Chill",
+        "bpm": 112,
+        "chord": "E Minor",
+        "file_url": "http://127.0.0.1:5000/static/uploads/Lana_Del_Rey_-_Chemtrails_Over_The_Country_Club_Official_Music_Video.mp3"
+    },
+    {
+        "song_name": "Alex_Warren_-_Ordinary_Lyrics.mp3",
+        "mood": "Chill",
+        "bpm": 112,
+        "chord": "E Minor",
+        "file_url": "http://127.0.0.1:5000/static/uploads/Alex_Warren_-_Ordinary_Lyrics.mp3"
+    },
+    {
+        "song_name": "happy-birthday-471481.mp3",
+        "mood": "Chill",
+        "bpm": 117,
+        "chord": "C Major",
+        "file_url": "http://127.0.0.1:5000/static/uploads/happy-birthday-471481.mp3"
+    },
+    {
+        "song_name": "Imagine_Dragons_-_Believer_Lyrics.mp3",
+        "mood": "Energetic",
+        "bpm": 123,
+        "chord": "D Minor",
+        "file_url": "http://127.0.0.1:5000/static/uploads/Imagine_Dragons_-_Believer_Lyrics.mp3"
+    },
+    {
+        "song_name": "I_wanna_be_yours_-_arctic_monkeys.mp3",
+        "mood": "Chill",
+        "bpm": 67,
+        "chord": "F Minor",
+        "file_url": "http://127.0.0.1:5000/static/uploads/I_wanna_be_yours_-_arctic_monkeys.mp3"
+    }
+]

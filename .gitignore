@@ -1,0 +1,18 @@
+# Ignore ffmpeg executables/zip
+ffmpeg/
+
+# Ignore user media uploads
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore AI caches and history data
+ai_cache.json
+
+# IDE config files
+.vscode/
+.idea/
+.DS_Store
